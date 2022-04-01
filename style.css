@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+
+body {
+	font-family: 'Oswald', sans-serif;
+	background-image: url(https://media.istockphoto.com/illustrations/pink-and-gold-confetti-seamless-pattern-illustration-id1153105208);
+
+}
+
+h1,h2,h3,a{
+	font-family: 'Oswald', sans-serif;
+}
+
+h1{
+	color: #ff7de9
+}
+
+h2{
+	color: #F79BD6
+}
+a{
+	text-decoration: none;
+}
+ div{
+ 	background-color: white;
+ 	padding: 48px;
+ 	margin: 16px auto;
+ 	text-align: center;
+ 	width: 700px;
+ 	border-radius: 6px;
+ 	box-shadow: 1px 1px 1px 1px black;
+
+ }
+
+ .img-circle{
+ 	border-radius: 50%;
+ 	height: 190px;
+ 	width: 190px;
+ 	object-fit: cover;
+ }
+
+ .btn-blue {
+ 	background-color: #F79BD6;
+ 	color:white;
+ 	padding: 16px
+ 	border-radius:6px;
+ 	margin: 0 auto;
+ 	font-weight: bold;
+ 	display: block;
+ 	width: 25%;
+ 	border: 1px solid #F79BD6;
+ 	transition: 1s;
+ 
+ }
+ 	
+.btn-blue:hover {
+ 	background-color: white;
+ 	color: #F79BD6 ;
+ 	transition: 1s;
+ }
+
+.list-inline li {
+display: inline;
+}
+
+.list-inline a{
+	font-size: 48px;
+	color:rgba(0,0,0,0.3);
+}
+
+.list-inline a:hover {
+	color: #DDD700;
+}
+
+
+
+
+
